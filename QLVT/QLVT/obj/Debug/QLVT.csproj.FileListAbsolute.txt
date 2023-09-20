@@ -1,0 +1,434 @@
+D:\QLVT\QLVT\bin\Debug\QLVT.exe.config
+D:\QLVT\QLVT\bin\Debug\QLVT.exe
+D:\QLVT\QLVT\bin\Debug\QLVT.pdb
+D:\QLVT\QLVT\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Data.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Data.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\QLVT\QLVT\obj\Debug\QLVT.csproj.AssemblyReference.cache
+D:\QLVT\QLVT\obj\Debug\QLVT.frmDangNhap.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmMain.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Properties.Resources.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.csproj.GenerateResource.cache
+D:\QLVT\QLVT\obj\Debug\QLVT.exe.licenses
+D:\QLVT\QLVT\obj\Debug\QLVT.csproj.CoreCompileInputs.cache
+D:\QLVT\QLVT\obj\Debug\QLVT.csproj.CopyComplete
+D:\QLVT\QLVT\obj\Debug\QLVT.exe
+D:\QLVT\QLVT\obj\Debug\QLVT.pdb
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\QLVT\QLVT\obj\Debug\QLVT.frmHangHoa.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmLoaiHangHoa.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmDonDH.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmNhaCungCap.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmNhanVien.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmPhieuNhap.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmHoaDon.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmKho.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmKhachHang.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmCT_DDH.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmCT_PN.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmCT_HD.resources
+D:\QLVT\QLVT\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Images.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\QLVT\QLVT\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\QLVT\QLVT\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QLVT\QLVT\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\QLVT\QLVT\obj\Debug\QLVT.frm_rpDSNV.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DSNV.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frm_rpDSVT.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DSVT.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frm_rpCTNX.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frmTaoTKNV.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frm_DDHchuacoPN.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DDHchuacoPN.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frm_rpCT_HDNV.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Xrpt_HDNV_N.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Xrpt_HDNV_X.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.frm_rp_THNX.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Xrpt_CTNX.resources
+D:\QLVT\QLVT\obj\Debug\QLVT.Xrpt_THNX.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\QLVT.exe.config
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\QLVT.exe
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\QLVT.pdb
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Images.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.csproj.AssemblyReference.cache
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmCT_DDH.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmCT_PN.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmDangNhap.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmDonDH.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmHangHoa.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmKho.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmMain.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmNhanVien.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmPhieuNhap.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmTaoTKNV.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frm_DDHchuacoPN.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frm_rpCTNX.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frm_rpCT_HDNV.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frm_rpDSNV.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frm_rpDSVT.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frm_rp_THNX.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.Properties.Resources.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.csproj.GenerateResource.cache
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.exe.licenses
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.csproj.CopyComplete
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.exe
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.pdb
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmCT_PX.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.frmPhieuXuat.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DSNV1.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DSVT1.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.Xrpt_CTNX1.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DDHchuacoPN1.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.Xrpt_HDNV_N2.resources
+D:\Tai Lieu Ky 9\CSDLPT\QLVT\QLVT\obj\Debug\QLVT.Xrpt_THNX1.resources
