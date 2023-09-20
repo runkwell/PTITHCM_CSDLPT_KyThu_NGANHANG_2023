@@ -1,0 +1,5 @@
+1. cài visual studio 2019
+2. cài sql 2019 (not express)
+3. cài devexpress 20.1.3
+
+Xong chơi thôi. 8d solo kỳ thư easy :))))
